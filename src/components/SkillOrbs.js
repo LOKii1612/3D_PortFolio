@@ -2,7 +2,7 @@ import React from 'react';
 import { Float, Text } from '@react-three/drei';
 
 const skills = [
-  { name: 'React', position: [-3, 3, 1], color: '#ffd700' },
+  { name: 'React', position: [-3, 3, 1], color: '#BF953F' },
   { name: 'Node.js', position: [3, 3, 1], color: '#3c873a' },
   { name: 'PostgreSQL', position: [-4, 0.5, -2], color: '#336791' },
   { name: 'DSA', position: [4, 0.5, -2], color: '#8B0000' },
